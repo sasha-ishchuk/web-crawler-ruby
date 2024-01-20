@@ -1,7 +1,6 @@
 # Crawler in Ruby
 
 ## Product crawler on Amazon
-### ***Category:** mixers for DJs, the most popular*
 
 ___
 
