@@ -2,8 +2,6 @@
 
 ## Product crawler on Amazon
 
-___
-
 ### Link to demo: [demo](https://drive.google.com/file/d/1R3YdDPRqz8lqqQGLyhXdYVzBpsPp9ily/view?usp=sharing)
 
 ### Libraries (modules) used:
