@@ -11,7 +11,7 @@ ___
 - **Nokogiri** (*HTML parser*)
 - **HTTPParty** (*user-friendly HTTP client*)
 - **Sequel** (*database toolkit*)
-- **Sqlite3** (*connection for sqlite3 database*)
+- **Sqlite3** (*to use sqlite3 engine*)
 
 ### Requirements (versions used):
 - **Ruby** version: 3.3.0
@@ -24,7 +24,7 @@ ___
 ### Features
 - Download basic product data (title, price, image url)
 - Download basic product data by keywords
-- Download detailed product data, which is visible only on the product subpage (technical information about product)
+- Download detailed product data, which is visible only on the product subpage
 - Download product links (urls)
 - Save data in a database via Sequel
 
